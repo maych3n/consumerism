@@ -1,0 +1,77 @@
+body{
+    font-family: 'Instrument Sans', sans-serif;
+}
+h1{
+    font-size: 70pt;
+    margin-bottom: -25px;
+    margin-top: -5px;
+}
+
+h3{
+    font-size: 30pt;
+    font-weight: 400;
+    padding-right: 3vw;
+    padding-left: 1vw;
+}
+
+.headers{
+    font-size: 40pt;
+    font-weight: 800;
+    padding-left: 1vw;
+    padding-bottom: 3px;
+}
+.paragraphs{
+    font-size: 16pt;
+    padding-right: 25vw;
+    padding-bottom: 35px;
+    padding-left: 1vw;
+}
+#box{
+    width: 600px;
+    height:270px;
+    border: 5px solid blue;
+    background-color: white;
+    text-align: left;
+    font-size: 14pt;
+    display: none;
+    position: fixed;
+    z-index: 5;
+justify-content: center;
+align-items: center;
+margin-top: 200px;
+margin-left: 400px;
+}
+.inside{
+    padding-left: 10px;
+    margin-top: -10px;
+    padding-bottom: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    color: black;
+}
+p{
+    font-size: 28pt;
+    margin-bottom: 7px;
+}
+h5{
+    font-size: 30pt;
+    font-weight: 800;
+    margin-top: 15px;
+    float: left;
+
+}
+h6{
+    font-size: 7pt;
+    font-weight: 400;
+    margin-top: 43px;
+    padding-right: 30px;
+    float: right;
+
+}
+
+
